@@ -10,15 +10,18 @@
 git clone https://github.com/thanachok11/lab_img_detection
 cd lab_img_detection
 ```
-```bash windows
+### windows
+```bash 
 pip install torch torchvision pillow opencv-python ultralytics tkinter
 
 ```
-```bash macOS python3
+### macOS python3
+```bash 
 python3 -m pip install --upgrade pillow torch torchvision opencv-python-headless ultralytics tk
 
 ```
-```bash macOS python ธรรมดา
+### macOS python ธรรมดา
+```bash 
 pip install torch torchvision pillow opencv-python ultralytics tk
 
 
