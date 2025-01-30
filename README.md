@@ -20,9 +20,4 @@ pip install torch torchvision pillow opencv-python ultralytics
 python3 -m pip install --upgrade pillow torch torchvision opencv-python-headless ultralytics 
 
 ```
-### macOS python ธรรมดา
-```bash 
-pip install torch torchvision pillow opencv-python ultralytics 
 
-
-```
