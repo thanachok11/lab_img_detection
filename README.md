@@ -12,17 +12,17 @@ cd lab_img_detection
 ```
 ### windows
 ```bash 
-pip install torch torchvision pillow opencv-python ultralytics tkinter
+pip install torch torchvision pillow opencv-python ultralytics
 
 ```
 ### macOS python3
 ```bash 
-python3 -m pip install --upgrade pillow torch torchvision opencv-python-headless ultralytics tk
+python3 -m pip install --upgrade pillow torch torchvision opencv-python-headless ultralytics 
 
 ```
 ### macOS python ธรรมดา
 ```bash 
-pip install torch torchvision pillow opencv-python ultralytics tk
+pip install torch torchvision pillow opencv-python ultralytics 
 
 
 ```
